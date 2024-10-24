@@ -36,7 +36,7 @@ class SearchProvider:
             conn = http.client.HTTPSConnection("google.serper.dev")
             payload = json.dumps({"q": search_word, "num": num_results})
             headers = {
-                'X-API-KEY': '734ccd8d7af25b24b6cc59670c20c6f00b756953',
+                'X-API-KEY': self.serper_api_key,
                 'Content-Type': 'application/json'
                 }
             conn.request("POST", "/search", payload, headers)
