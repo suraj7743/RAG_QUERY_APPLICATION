@@ -94,5 +94,15 @@ Responses are sent back to the frontend for display.
 ## Usage
 
 Use the service , by navigating to the streamlit app running on given **port**
+
+## How it could be benefited
+**Customizable Knowledge Base**: Users can feed their own data, allowing for a personalized database that incorporates specific interests and information, enhancing the overall relevance of the content.
+
+**Exploration of Unique Topics**: The application can feature unconventional subjects, such as conspiracies and undiscovered phenomena, broadening the scope of information available to users and catering to niche interests.
+
+**High Query Efficiency:** The system enables efficient querying of vast amounts of information, making it easier for users to retrieve specific data quickly and effectively.
+
+**Integration with LLMs**: By leveraging a language model (LLM), the project can generate insightful responses based on user queries, enhancing the interaction experience and providing sophisticated insights into the data.
+
 ## Screenshots
 ![alt text](screenshot1.png)
