@@ -58,8 +58,8 @@ Responses are sent back to the frontend for display.
 ### Clone the project
 
 ```bash
-  git clone 
-  cd 
+  git clone https://github.com/suraj7743/RAG_QUERY_APPLICATION.git
+  cd RAG_QUERY_APPLICATION
   copy .env.sample to .env
 ```
 
