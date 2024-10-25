@@ -45,6 +45,10 @@ The frontend loads topics from topics.json.
 Users select a topic and enter a question, which is sent to the backend.
 The backend processes the request, potentially querying the LLM for an answer.
 Responses are sent back to the frontend for display.
+
+![Untitled-2024-10-07-0753](https://github.com/user-attachments/assets/492d57c4-d7a9-468e-af79-3a39bc05966c)
+
+
 ## Requirements
 - **Python 3.12** Install Python 3.12 here.
 - **Poetry**: Install Poetry by following the instructions here.
