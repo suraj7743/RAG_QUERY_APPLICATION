@@ -106,3 +106,11 @@ Use the service , by navigating to the streamlit app running on given **port**
 
 ## Screenshots
 ![alt text](screenshot1.png)
+
+## Catch 
+#### Ignore UI , I am not proficient in Frontend Part so used streamlit just to showcase my skills
+
+## Improvement
+- We could use VectoreStore database like qdrant or pinecone to store the chunks and retrive from them. 
+- Could add field information in Mongodb and retrive from them. 
+- Add Sockets to make chat like conversation and store chat in redis for fast retrival.
