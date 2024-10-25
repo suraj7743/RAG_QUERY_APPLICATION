@@ -63,12 +63,6 @@ Responses are sent back to the frontend for display.
   copy .env.sample to .env
 ```
 
-### Go to the project directory
-
-```bash
-  cd 
-```
-
 ### Install dependencies
 
 ```bash
