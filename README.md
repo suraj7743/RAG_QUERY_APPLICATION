@@ -69,16 +69,16 @@ Responses are sent back to the frontend for display.
   poetry install
 ```
 
-#### Activate Poetry shell
+### Activate Poetry shell
 
 ```bash
   Poetry shell
 ```
-#### Run FastApi Backend
+### Run FastApi Backend
 ```bash
   uvicorn main:app --reload
 ```
-#### Run Frontend Streamlit app
+### Run Frontend Streamlit app
 ```bash
   streamlit run app.py
 ```
